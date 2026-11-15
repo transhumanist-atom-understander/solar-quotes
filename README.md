@@ -5,14 +5,14 @@ Let's consider solar power.
 Ignoring current technology, it's easy to put a number on the maximum power output.
 The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
 [It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
-The power in a square meter of the ground is less than that, because of both the angle and the atmosphere: [one source gives .342 kW/m² as an average ground-level value](https://www.nasa.gov/wp-content/uploads/2015/03/135642main_balance_trifold21.pdf), or [25% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29).
+The power on a square meter of the ground is less than that, because of both the angle and the atmosphere: averaged over the whole Earth, day and night, the angle alone brings it down to [.342 kW/m²](https://www.nasa.gov/wp-content/uploads/2015/03/135642main_balance_trifold21.pdf), or [25% of the solar constant](https://www.wolframalpha.com/input?i=%28.342+kW%2Fm%5E2%29+%2F+%28solar+constant%29), before any losses in the atmosphere.
 
 The solar constant hasn't changed and technology has, so it's interesting to see how people have reacted to the same number throughout the history of technology.
 In this post I'll quote both Nikola Tesla and Elon Musk.
-We'll see that Tesla correctly recognized solar power as a long-term possibility, as well as why it was impractical in the short-term.
+We'll see that Tesla correctly recognized solar power as a long-term possibility, as well as why it was impractical in the short term.
 
 From Musk all I really have is a Twitter thread where he does the arithmetic.
-But it's interesting to consider what changed since Nikola Tesla's time, and how someone in Musk's generation may have recognized that it was the time to act on these calculations
+But it's interesting to consider what has changed since Nikola Tesla's time, and how someone in Musk's generation may have recognized that it was the time to act on these calculations.
 
 ## Nikola Tesla on the solar future
 
@@ -27,7 +27,7 @@ Although Tesla is thinking of using sunlight as a source of heat for a steam eng
 Now we use photovoltaic cells, so that's one thing that has changed since his time.
 
 The other is that with modern batteries, we can construct a "storage plant", as Tesla called it.
-Reading on, Tesla thought storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
+Reading on, we find that Tesla thought storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
 But another scientist and futurist, J. B. S. Haldane, correctly identified storage as the key issue when discussing wind power in [his 1924 book](https://www.gutenberg.org/ebooks/70955), where he wrote:
 
 > Even to-morrow a cheap, foolproof, and durable storage battery may be invented, which will enable us to transform the intermittent energy of the wind into continuous electric power.
@@ -48,11 +48,11 @@ Well, it took longer than that, with lithium-ion batteries becoming widespread i
 > Factoring in solar panel efficiency (25%), packing density (80%) and usable daylight hours (~6), a reasonable rule of thumb is 3GWh of energy per square mile per day. Easy math, but almost no one does these basic calculations.
 
 
-The solar constant appears here as Musk's value in space ([approximately](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29); probably he meant that his ground value is 30% lower, which gives [a closer match](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29)).
+The solar constant appears here as Musk's value in space ([approximately](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29); probably he meant that his ground value is 30% lower, which gives [a closer match](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+%2F+0.7+%2F+%28solar+constant%29)).
 
 2024 is late, but Musk was early to solar power.
 In 2006, when the only Tesla car was the Roadster, [he wrote that](https://www.tesla.com/secret-master-plan) "the overarching purpose of Tesla Motors (and the reason I am funding the company) is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy".
 
 This was timely not just because solar panels were getting cheap, but because of lithium-ion batteries.
-And not just for cars: Tesla was way ahead on stationary batteries for the electric grid.
+And not just for cars: Tesla Motors was way ahead on stationary batteries for the electric grid.
 But that's a story for [another post](https://www.lesswrong.com/posts/Qzp3X9knYFYvuitm2/elon-musk-and-solar-futurism).
