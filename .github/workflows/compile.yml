@@ -1,0 +1,36 @@
+name: Compile
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+# Run one at a time so two pushes in quick succession don't race to commit.
+concurrency:
+  group: compile-main
+  cancel-in-progress: false
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Run compile script
+        run: python3 compile.py
+
+      # Pushes made with the default GITHUB_TOKEN don't trigger workflows,
+      # so this commit won't start another run.
+      - name: Commit README.md if it changed
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README.md is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Compile README.md"
+          git push
