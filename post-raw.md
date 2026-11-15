@@ -11,9 +11,23 @@ In this post I'll quote both Nikola Tesla and Elon Musk.
 It's interesting to see how Tesla correctly recognized it as a possibility for future generations.
 Musk on the other hand recognized before others that it was a problem for his generation, which is why his company is now one of the leading providers of battery energy storage for the power grid.
 
+## Nikola Tesla on the solar future
+
+The Tesla quote is from [a 1931 article called "Our Future Motive Power"](https://teslauniverse.com/nikola-tesla/articles/our-future-motive-power), which discusses solar power as one of many options.
+
 {tesla_quote}
 
 [Tesla's number of 7300 per acre is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29).
+
+Although Tesla is thinking of using light as a source of heat for a steam engine, he goes on to note that we could instead use "photo-electric cells which may become, on this account, of practical importance in the future."
+Now we use photovoltaic cells, so that's one thing that has changed since his time.
+
+The other is that with modern batteries, we can construct the "storage plant" that Tesla identified as necessary.
+Power storage was also identified as the key difficulty with wind power by [Haldane in 1925](https://www.gutenberg.org/ebooks/70955), who said:
+
+{haldane_quote}
+
+Well, it took longer than that, with lithium ion batteries becoming widespread in the '90s.
 
 {musk_quote}
 
