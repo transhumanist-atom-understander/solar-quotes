@@ -5,7 +5,8 @@ Let's consider solar power.
 Ignoring current technology, it's easy to put a number on the maximum power output.
 The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
 [It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
-The power on a square meter of the ground is less than that, because of both the angle and the atmosphere: averaged over the whole Earth, day and night, the angle alone brings it down to [.342 kW/m²](https://www.nasa.gov/wp-content/uploads/2015/03/135642main_balance_trifold21.pdf), or [25% of the solar constant](https://www.wolframalpha.com/input?i=%28.342+kW%2Fm%5E2%29+%2F+%28solar+constant%29), before any losses in the atmosphere.
+The power on a square meter of the ground is less than that, because of both the angle and the atmosphere.
+I'm focusing on the solar constant because it's a hard upper limit and there's a lot of arbitrary decisions in how to adjust it downwards, and it won't matter much for the rough calculations we're going to consider.
 
 The solar constant hasn't changed and technology has, so it's interesting to see how people have reacted to the same number throughout the history of technology.
 In this post I'll quote both Nikola Tesla and Elon Musk.
