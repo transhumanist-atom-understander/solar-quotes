@@ -5,7 +5,7 @@ Let's consider solar power.
 Ignoring current technology, it's easy to put a number on the maximum power output.
 The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
 [It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
-The power on a square meter of the ground is less than that, because of both the angle and the atmosphere: averaged over the whole Earth, day and night, the angle alone brings it down to [.342 kW/m²](https://www.nasa.gov/wp-content/uploads/2015/03/135642main_balance_trifold21.pdf), or [25% of the solar constant](https://www.wolframalpha.com/input?i=%28.342+kW%2Fm%5E2%29+%2F+%28solar+constant%29), before any losses in the atmosphere.
+The power on a square meter of the ground is less than that, because of the angle of incidence as well as the atmosphere.
 
 The solar constant hasn't changed and technology has, so it's interesting to see how people have reacted to the same number throughout the history of technology.
 In this post I'll quote both Nikola Tesla and Elon Musk.
@@ -27,7 +27,7 @@ Although Tesla is thinking of using sunlight as a source of heat for a steam eng
 Now we use photovoltaic cells, so that's one thing that has changed since his time.
 
 The other is that with modern batteries, we can construct a "storage plant", as Tesla called it.
-If you keep reading the Tesla article, he seems to think storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
+Reading on, we find that Tesla thought storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
 But another scientist and futurist, J. B. S. Haldane, correctly identified storage as the key issue when discussing wind power in [his 1924 book](https://www.gutenberg.org/ebooks/70955), where he wrote:
 
 > Even to-morrow a cheap, foolproof, and durable storage battery may be invented, which will enable us to transform the intermittent energy of the wind into continuous electric power.
@@ -54,5 +54,5 @@ The solar constant appears here as Musk's value in space ([approximately](https:
 In 2006, when the only Tesla car was the Roadster, [he wrote that](https://www.tesla.com/secret-master-plan) "the overarching purpose of Tesla Motors (and the reason I am funding the company) is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy".
 
 This was timely not just because solar panels were getting cheap, but because of lithium-ion batteries.
-And not just for cars: Tesla (the company) was way ahead on stationary batteries for the electric grid.
+And not just for cars: Tesla Motors was way ahead on stationary batteries for the electric grid.
 But that's a story for [another post](https://www.lesswrong.com/posts/Qzp3X9knYFYvuitm2/elon-musk-and-solar-futurism).
