@@ -4,14 +4,12 @@ The energy hitting a square meter of the ground is less than that, both because 
 
 {tesla_quote}
 
-[The solar constant is 7380 horsepower per acre](https://www.wolframalpha.com/input?i=solar+constant+in+horsepower+per+acre).
-[So Tesla's number of 7300 is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29), and [the lower value of 1737 is 23.5% of the solar constant](https://www.wolframalpha.com/input?i=%281737+horsepower+per+acre+%2F+solar+constant%29).
+[Tesla's number of 7300 per acre is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29), and [the lower value of 1737 is 23.5% of the solar constant](https://www.wolframalpha.com/input?i=%281737+horsepower+per+acre+%2F+solar+constant%29).
+
 
 {musk_quote}
 
-[The solar constant is 3.52 GW per square mile](https://www.wolframalpha.com/input?i=solar+constant+in+GW%2F%28square+mile%29).
-Musk's number of 2.5 for the ground is 71% of the solar constant.
-[To get the solar constant you adjust up 40%](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29) (I think Musk's "~30% higher in space" was a minor error).
+I think Musk's value in space was supposed to be the solar constant, though there's a minor math error here: [his ground value is about 70% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+square+mile%29+%2F+solar+constant), meaning [the solar constant is about 40% higher](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29), because 1/.7 ≈ 1.4.
 
-For Musk's final number, [the solar constant is 84.6 GWh per square mile per day](https://www.wolframalpha.com/input?i=solar+constant+*+%281+day%29+in+GWh%2F%28square+mile%29), so I think his number of 3 is extremely low?
-Only like 3% of the solar constant.
+[Musk's final number is about 3.5% of the solar constant](https://www.wolframalpha.com/input?i=%283+GWh+%2F+square+mile+%2F+day%29+%2F+solar+constant).
+That makes sense; [starting with 70%, then multiplying by the inefficiencies he mentions, is 3.5%](https://www.wolframalpha.com/input?i=.7+*+.25+*+.8+*+1%2F4).
