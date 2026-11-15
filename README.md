@@ -27,7 +27,7 @@ Although Tesla is thinking of using sunlight as a source of heat for a steam eng
 Now we use photovoltaic cells, so that's one thing that has changed since his time.
 
 The other is that with modern batteries, we can construct a "storage plant", as Tesla called it.
-Reading on, we find that Tesla thought storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
+If you keep reading the Tesla article, he seems to think storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
 But another scientist and futurist, J. B. S. Haldane, correctly identified storage as the key issue when discussing wind power in [his 1924 book](https://www.gutenberg.org/ebooks/70955), where he wrote:
 
 > Even to-morrow a cheap, foolproof, and durable storage battery may be invented, which will enable us to transform the intermittent energy of the wind into continuous electric power.
