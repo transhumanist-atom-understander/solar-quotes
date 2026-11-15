@@ -2,7 +2,7 @@ One mode of futurism is estimating the limits of a technology, without regard to
 Whether this is of any relevance to your own generation is another question.
 
 Let's consider solar power.
-The solar power per unit area at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
+The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
 [It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
 The power at a square meter of the ground is less than that, both because the ground is generally not perpendicular to the sun's rays and because not all the sunlight makes it through the atmosphere.
 
@@ -44,7 +44,7 @@ Well, it took longer than that, with lithium-ion batteries becoming widespread i
 > Factoring in solar panel efficiency (25%), packing density (80%) and usable daylight hours (~6), a reasonable rule of thumb is 3GWh of energy per square mile per day. Easy math, but almost no one does these basic calculations.
 
 
-I think Musk's value in space was supposed to be the solar constant, though there's a minor math error in the thread: [his ground value is about 70% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+square+mile%29+%2F+solar+constant), meaning [the solar constant is about 40% higher](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29), not 30%, because 1/0.7 ≈ 1.4.
+I think Musk's value in space was supposed to be the solar constant, though there's a minor math error here: [his ground value is about 70% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+square+mile%29+%2F+solar+constant), meaning [the solar constant is about 40% higher](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29), because 1/.7 ≈ 1.4.
 
 2024 is late, but Musk was early to solar power.
 In 2006, when the only Tesla car was the Roadster, [he wrote that](https://www.tesla.com/secret-master-plan) "the overarching purpose of Tesla Motors (and the reason I am funding the company) is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy".
