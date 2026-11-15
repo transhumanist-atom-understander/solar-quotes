@@ -2,7 +2,7 @@ One mode of futurism is estimating the limits of a technology, without regard to
 Whether this is of any relevance to your own generation is another question.
 
 Let's consider solar power.
-The solar power per unit area at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
+The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
 [It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
 The power at a square meter of the ground is less than that, both because the ground is generally not perpendicular to the sun's rays and because not all the sunlight makes it through the atmosphere.
 
