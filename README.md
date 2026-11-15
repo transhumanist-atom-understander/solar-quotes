@@ -2,14 +2,17 @@ One mode of futurism is estimating the limits of a technology, without regard to
 Whether this is of any relevance to your own generation is another question.
 
 Let's consider solar power.
+Ignoring current technology, it's easy to put a number on the maximum power output.
 The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
 [It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
-The power at a square meter of the ground is less than that, both because the ground is generally not perpendicular to the sun's rays and because not all the sunlight makes it through the atmosphere.
+The power in a square meter of the ground is less than that, because of both the angle and the atmosphere: [one source gives .342 kW/m² as an average ground-level value](https://www.nasa.gov/wp-content/uploads/2015/03/135642main_balance_trifold21.pdf), or [25% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29).
 
 The solar constant hasn't changed and technology has, so it's interesting to see how people have reacted to the same number throughout the history of technology.
 In this post I'll quote both Nikola Tesla and Elon Musk.
-Tesla correctly recognized solar power as a possibility for future generations.
-Musk, on the other hand, recognized before others that it was a problem for his generation, which is why his company is now one of the leading providers of battery energy storage for the power grid.
+We'll see that Tesla correctly recognized solar power as a long-term possibility, as well as why it was impractical in the short-term.
+
+From Musk all I really have is a Twitter thread where he does the arithmetic.
+But it's interesting to consider what changed since Nikola Tesla's time, and how someone in Musk's generation may have recognized that it was the time to act on these calculations
 
 ## Nikola Tesla on the solar future
 
