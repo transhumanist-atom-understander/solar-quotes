@@ -54,5 +54,5 @@ The solar constant appears here as Musk's value in space ([approximately](https:
 In 2006, when the only Tesla car was the Roadster, [he wrote that](https://www.tesla.com/secret-master-plan) "the overarching purpose of Tesla Motors (and the reason I am funding the company) is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy".
 
 This was timely not just because solar panels were getting cheap, but because of lithium-ion batteries.
-And not just for cars: Tesla Motors was way ahead on stationary batteries for the electric grid.
+And not just for cars: Tesla (the company) was way ahead on stationary batteries for the electric grid.
 But that's a story for [another post](https://www.lesswrong.com/posts/Qzp3X9knYFYvuitm2/elon-musk-and-solar-futurism).
