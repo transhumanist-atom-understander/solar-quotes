@@ -36,7 +36,7 @@ Well, it took longer than that, with lithium-ion batteries becoming widespread i
 
 {musk_quote}
 
-I think Musk's value in space was supposed to be the solar constant, though there's a minor math error here: [his ground value is about 70% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+square+mile%29+%2F+solar+constant), meaning [the solar constant is about 40% higher](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29), because 1/.7 ≈ 1.4.
+The solar constant appears here as Musk's value in space ([approximately](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29); probably he meant that his ground value is 30% lower, which gives [a closer match](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+%28square+mile%29%29+*+1.3+%2F+%28solar+constant%29)).
 
 2024 is late, but Musk was early to solar power.
 In 2006, when the only Tesla car was the Roadster, [he wrote that](https://www.tesla.com/secret-master-plan) "the overarching purpose of Tesla Motors (and the reason I am funding the company) is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy".
