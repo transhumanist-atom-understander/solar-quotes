@@ -23,7 +23,7 @@ Although Tesla is thinking of using sunlight as a source of heat for a steam eng
 Now we use photovoltaic cells, so that's one thing that has changed since his time.
 
 The other is that with modern batteries, we can construct the "storage plant" that Tesla identified as necessary.
-Power storage was also identified as the key difficulty with wind power by [Haldane in 1925](https://www.gutenberg.org/ebooks/70955), who said:
+Power storage was also identified as the key difficulty with wind power by [J. B. S. Haldane in 1924](https://www.gutenberg.org/ebooks/70955), who said:
 
 {haldane_quote}
 
