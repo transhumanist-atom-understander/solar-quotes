@@ -29,6 +29,17 @@ Power storage was also identified as the key difficulty with wind power by [Hald
 
 Well, it took longer than that, with lithium ion batteries becoming widespread in the '90s.
 
+## Elon Musk on the solar present
+
+[A 2024 Twitter thread](https://x.com/elonmusk/status/1839439841337225277):
+
 {musk_quote}
 
 I think Musk's value in space was supposed to be the solar constant, though there's a minor math error here: [his ground value is about 70% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+square+mile%29+%2F+solar+constant), meaning [the solar constant is about 40% higher](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29), because 1/.7 ≈ 1.4.
+
+2024 is late, but Musk was early to solar power.
+In 2006, when the only Tesla car was the Roadster, he wrote that "the overarching purpose of Tesla Motors (and the reason I am funding the company) is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy".
+
+The reason this was timely was not just because solar panels were getting cheap, but because of lithium ion batteries.
+And not just for cars: Tesla was way ahead on stationary batteries for the electric grid.
+But that's a story for [another post](https://www.lesswrong.com/posts/Qzp3X9knYFYvuitm2/elon-musk-and-solar-futurism).
