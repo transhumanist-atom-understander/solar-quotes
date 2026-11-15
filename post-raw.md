@@ -8,7 +8,7 @@ The power at a square meter of the ground is less than that, both because the gr
 
 The solar constant hasn't changed and technology has, so it's interesting to see how people have reacted to the same number throughout the history of technology.
 In this post I'll quote both Nikola Tesla and Elon Musk.
-It's interesting to see how Tesla correctly recognized it as a possibility for future generations.
+Tesla correctly recognized solar power as a possibility for future generations.
 Musk on the other hand recognized before others that it was a problem for his generation, which is why his company is now one of the leading providers of battery energy storage for the power grid.
 
 ## Nikola Tesla on the solar future
