@@ -22,8 +22,9 @@ The Tesla quote is from [a 1931 article called "Our Future Motive Power"](https:
 Although Tesla is thinking of using sunlight as a source of heat for a steam engine, he goes on to note that we could instead use "photo-electric cells which may become, on this account, of practical importance in the future."
 Now we use photovoltaic cells, so that's one thing that has changed since his time.
 
-The other is that with modern batteries, we can construct the "storage plant" that Tesla identified as necessary.
-Power storage was also identified as the key difficulty with wind power by [J. B. S. Haldane in 1924](https://www.gutenberg.org/ebooks/70955), who said:
+The other is that with modern batteries, we can construct a "storage plant", as Tesla called it.
+Reading on, Tesla thought storage would be unnecessary in the long term; apparently he thought his ideas for wireless power transmission would work across continents.
+But another scientist and futurist, J. B. S. Haldane, correctly identified storage as the key issue when discussing wind power in [his 1924 book](https://www.gutenberg.org/ebooks/70955), where he wrote:
 
 {haldane_quote}
 
