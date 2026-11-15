@@ -17,7 +17,7 @@ The Tesla quote is from [a 1931 article called "Our Future Motive Power"](https:
 
 {tesla_quote}
 
-[Tesla's number of 7300 per acre is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29).
+[Tesla's number of 7300 horsepower per acre is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29).
 
 Although Tesla is thinking of using light as a source of heat for a steam engine, he goes on to note that we could instead use "photo-electric cells which may become, on this account, of practical importance in the future."
 Now we use photovoltaic cells, so that's one thing that has changed since his time.
