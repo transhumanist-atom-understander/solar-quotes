@@ -1,15 +1,12 @@
-The solar energy at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
-[It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2.
-The energy hitting a square meter of the ground is less than that, both because the ground is not perpendicular to the sun and because not all the sunlight makes it through the atmosphere.
+The solar power at the Earth's distance from the sun is called the [solar constant](https://en.wikipedia.org/wiki/Solar_constant).
+[It is 1.36 kW/m²](https://www.wolframalpha.com/input?i=solar+constant+in+kW%2Fm%5E2).
+The power at a square meter of the ground is less than that, both because the ground is not perpendicular to the sun and because not all the sunlight makes it through the atmosphere.
 
 {tesla_quote}
 
-[Tesla's number of 7300 per acre is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29), and [the lower value of 1737 is 23.5% of the solar constant](https://www.wolframalpha.com/input?i=%281737+horsepower+per+acre+%2F+solar+constant%29).
+[Tesla's number of 7300 per acre is approximately the solar constant](https://www.wolframalpha.com/input?i=%287300+horsepower+per+acre+%2F+solar+constant%29).
 
 
 {musk_quote}
 
 I think Musk's value in space was supposed to be the solar constant, though there's a minor math error here: [his ground value is about 70% of the solar constant](https://www.wolframalpha.com/input?i=%282.5+GW+%2F+square+mile%29+%2F+solar+constant), meaning [the solar constant is about 40% higher](https://www.wolframalpha.com/input?i=solar+constant+%2F+%282.5+GW%2F%28square+mile%29%29), because 1/.7 ≈ 1.4.
-
-[Musk's final number is about 3.5% of the solar constant](https://www.wolframalpha.com/input?i=%283+GWh+%2F+square+mile+%2F+day%29+%2F+solar+constant).
-That makes sense; [starting with 70%, then multiplying by the inefficiencies he mentions, is 3.5%](https://www.wolframalpha.com/input?i=.7+*+.25+*+.8+*+1%2F4).
